@@ -1,2 +1,1 @@
-
-![itog](images/itog2.png)
+![itog2](images/itog2.png)
