@@ -1,2 +1,2 @@
-![figma](images/figma.png)
-![itog](images/itog.png)
+
+![itog](images/itog2.png)
